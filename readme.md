@@ -2,7 +2,6 @@
 
 ## Prerequisites
 
-<<<<<<< HEAD
 - Google Colaboratory
 
 ## Datasets
@@ -19,12 +18,3 @@
 2. Run The Project you want in google colab or use any text editor you want
 
 3. Set the path of dataset that you use.
-=======
-bottle:
-
-mobileauto:
-
-wine-white:
-
-california housing:
->>>>>>> 78c0d778bdc09c446f6738d0fa7883755bec07ab
